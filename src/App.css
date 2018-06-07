@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  font-size: 3rem;
+  padding-top: 14rem;
+  color: snow;
+}
+
+body {
+  background: black;
+  font-family: 'Varela', sans-serif;
+}
